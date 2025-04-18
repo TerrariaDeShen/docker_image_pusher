@@ -1,2 +1,2 @@
 # nacos/nacos-server:v2.4.3
-rocketmqinc/rocketmq:5.1.3
+rocketmqinc/rocketmq
