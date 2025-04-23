@@ -1,2 +1,3 @@
 # nacos/nacos-server:v2.4.3
-rocketmqinc/rocketmq
+# rocketmqinc/rocketmq
+mysql:8.0.32
